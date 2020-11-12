@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MDPract1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#F7BC5A" Padding="24" CornerRadius="0">
+            <Label Text="Practica 1" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Practica 1" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Desde la parte de android en VS salen 2 .xml modificables, ni idea de donde se supone que aparecen en la aplicación." FontSize="32" Padding="30,0,30,0"/>
+        <Label FontSize="32" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart - Eso hare" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
