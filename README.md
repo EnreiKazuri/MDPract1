@@ -1,10 +1,5 @@
-# MDPract1
-======
- Practica 1 de la materia de desarrollo movil.
- Los parametros modificados para el requisito fueron
- * Texto
- * Tamaño de letra
- * Color de fondo
+# XamarinPractice
+First time dealing with Xamarin
 
- Para una pantalla que se ve asi
-![alt text](https://i.imgur.com/xXwAdBy.png)
+
+<img src="https://i.imgur.com/xXwAdBy.png"
